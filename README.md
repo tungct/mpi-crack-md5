@@ -1,5 +1,5 @@
 # mpi-crack-md5
-hosfile : file contains total nodes's name in rocks-cluster
+hosfile : file contains total name's nodes in rocks-cluster
 
 ## build file :
 - mpic++ md5_ver1.cpp -o md5_v1 -lcrypto
